@@ -1,0 +1,31 @@
+Begin
+  Var x.
+  Input x;
+  Check [ x >= 0 ]
+    Output 2;
+  Check [ x < 0 ]
+    Output 1;
+End 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
