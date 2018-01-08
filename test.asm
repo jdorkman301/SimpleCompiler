@@ -1,2 +1,0 @@
-WRITE 1
-STOP
