@@ -1,5 +1,5 @@
 # SimpleCompiler
-This was a school project I did at UMSL. It is a simple compiler written in C++ that takes the source `*.fs17` and outputs `out.asm` files that run on a virtual machine for most Linux-based distros
+This was a school project I did at UMSL. It is a simple compiler written in C++ that takes the source `*.fs17` and outputs `out.asm` files that run on a virtual machine for most Linux-based distros. The virtual machine was written by Cezary Janikow. Here is his website http://www.cs.umsl.edu/~janikow/
 
 ## Input Language Definition
 
